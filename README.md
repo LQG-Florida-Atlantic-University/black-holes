@@ -23,3 +23,5 @@
 
 "flip_orientation.nb": including verifying the mapping between the EOMs in the new patch (\tilde{t}, \tilde{x}, \tilde{\theta}, \tilde{\varphi}) and the EOMs in the earlier patch, studying perturbations which show the chaos on dS_2 x S^2 with the Lyapunov exponent equal to the inverse dS radius. 
 
+"eoms.wl": including various version of EOMs and corresponding changes of variables.  
+
