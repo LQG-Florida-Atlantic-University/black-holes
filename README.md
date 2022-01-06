@@ -1,4 +1,4 @@
-# black-holes
+# Computations in Improved effective dynamics of loop-quantum-gravity black hole and Nariai limit.
 
 
 "BH_Gaussian_github.nb": Including Mathematica codes of the improved Hamiltonian, effective equations of motion (EOMs) and changes of variables, numerial solution of effective EOMs, plots of Kretschmann invariant, energy condition, analyze of dS_2 x S^2 geometry, and classical limit of effective EOMs.
@@ -27,3 +27,4 @@
 
 "eoms.wl": Including various version of EOMs and corresponding changes of variables.  
 
+Arxiv:
